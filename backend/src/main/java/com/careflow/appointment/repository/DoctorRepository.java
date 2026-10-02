@@ -1,0 +1,1 @@
+package com.careflow.appointment.repository; import com.careflow.appointment.model.Doctor; import org.springframework.data.jpa.repository.JpaRepository; import java.util.*; public interface DoctorRepository extends JpaRepository<Doctor,Long>{List<Doctor> findByAvailableTrue();}

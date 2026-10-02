@@ -1,0 +1,15 @@
+@import "tailwindcss";
+body{margin:0;background:#f8fafc;color:#172033;font-family:Inter,ui-sans-serif,system-ui,sans-serif}
+button,input,textarea{font:inherit}*{box-sizing:border-box}
+button{cursor:pointer}
+.hero{background:linear-gradient(135deg,#fff 0%,#f8fbff 60%,#eef5ff 100%)}
+.pill{display:inline-block;border-radius:999px;background:#eaf2ff;color:#155eef;padding:10px 16px;font-weight:800;font-size:13px}
+.pill::first-letter{color:#2563eb}
+.primary{display:inline-flex;align-items:center;justify-content:center;gap:8px;border-radius:14px;background:#2563eb;color:white;padding:13px 20px;font-weight:800;box-shadow:0 8px 20px rgba(37,99,235,.18)}
+.primary:hover{background:#1d4ed8}
+.secondary{display:inline-flex;align-items:center;justify-content:center;border-radius:14px;border:1px solid #cbd5e1;background:white;color:#334155;padding:13px 20px;font-weight:800}
+.field{display:block;width:100%;margin-top:8px;border:1px solid #dbe3ef;border-radius:13px;background:white;padding:13px;outline:none}
+.field:focus{border-color:#2563eb;box-shadow:0 0 0 3px rgba(37,99,235,.1)}
+.card,.doctor-card{border:1px solid #e2e8f0;border-radius:20px;background:white;padding:24px;box-shadow:0 8px 30px rgba(15,23,42,.05)}
+.doctor-card{transition:.2s}.doctor-card:hover{transform:translateY(-3px);box-shadow:0 14px 35px rgba(15,23,42,.09)}
+label{display:block}
