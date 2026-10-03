@@ -2548,36 +2548,7 @@ CareFlow provides a strong foundation for future healthcare management features 
 
 ---
 
-# 👨‍💻 Author
 
-## Ashik Rasool
-
-Information Technology Student
-
-Areas of Interest:
-
-```text
-Software Development
-Full-Stack Development
-Java
-Python
-Artificial Intelligence
-Cloud Computing
-```
-
----
-
-# 🤝 Contributors
-
-This project was developed as part of a college capstone project.
-
-Team members can be listed below:
-
-```text
-Add Team Member Names Here
-```
-
----
 
 # 📄 License
 
